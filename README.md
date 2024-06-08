@@ -22,4 +22,4 @@
 ### Связаться со мной:
 [<img align="left" alt="VK" width="64px" src="./src/img/vk.png" />](https://vk.com/sashashablov)
 [<img align="left" alt="Telegram" width="64px" src="./src/img/telegram.png" />](https://t.me/MrShablow)
-[<img align="left" alt="hh" width="64px" src="./src/img/hh.png" />](https://vologda.hh.ru/resume/65a77215ff0d4a98720039ed1f4855426c704b)
+[<img align="left" alt="hh" width="26px" src="./src/img/hh.png" />](https://vologda.hh.ru/resume/65a77215ff0d4a98720039ed1f4855426c704b)
