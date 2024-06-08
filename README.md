@@ -20,3 +20,4 @@
 
 
 ### Связаться со мной:
+[<img align="left" alt="VK" width="26px" src="./src/img/vk.png" />](https://vk.com/sashashablov)
