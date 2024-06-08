@@ -15,10 +15,8 @@
 <img align="left" alt="Androidstudio" width="26px" src="./src/img/androidstudio.png" />
 <img align="left" alt="Vanessa Automation" width="26px" src="./src/img/VA.png" />
 
-
-
-
 <br/>
 
+### <img align="left" alt="resume" width="26px" src="./src/img/resume.png" /> [Моё резюме](https://docs.google.com/document/d/1u3gx6Z96P8QIBj3xm_XNvQzT_UcnQVUL/edit?usp=sharing&ouid=105470476192297885288&rtpof=true&sd=true)
 
 ### Связаться со мной:
