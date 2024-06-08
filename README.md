@@ -20,5 +20,5 @@
 
 
 ### Связаться со мной:
-[<img align="left" alt="VK" width="52px" src="./src/img/vk.png" />](https://vk.com/sashashablov)
-[<img align="left" alt="Telegram" width="26px" src="./src/img/telegram.png" />](https://t.me/MrShablow)
+[<img align="left" alt="VK" width="64px" src="./src/img/vk.png" />](https://vk.com/sashashablov)
+[<img align="left" alt="Telegram" width="64px" src="./src/img/telegram.png" />](https://t.me/MrShablow)
