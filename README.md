@@ -6,7 +6,7 @@
 
 - [Дипломная работа по курсу 1С от Нетологии](https://github.com/AlexShablow/fonecmid-diplom.git)
 - [Домашние работы по курсу 1С от Нетологии](https://github.com/AlexShablow/HomeWorksNetology)
-###  Инструменты
+
 <img align="left" alt="1C" width="26px" src="src/img/1c.png" />
 <img align="left" alt="1CEDT" width="26px" src="src/img/1cedt.png" />
 <img align="left" alt="Git" width="26px" src="src/img/git.png"/>
